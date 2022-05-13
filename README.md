@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gieuagg
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? -> evagggianna@gmail.com
 
 <!---
